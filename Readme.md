@@ -14,8 +14,8 @@ Install dependencies:
 
 Copy the App ID and Secret from the Facebook app settings page into your `.env`:
 
-    echo FACEBOOK_APP_ID=12345 >> .env
-    echo FACEBOOK_SECRET=abcde >> .env
+    echo FACEBOOK_APP_ID=386214438119024 >> .env
+    echo FACEBOOK_SECRET=a5dc7b3496a91206415dfaf76ea740fa >> .env
 
 Launch the app with [Foreman](http://blog.daviddollar.org/2011/05/06/introducing-foreman.html):
 
